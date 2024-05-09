@@ -44,6 +44,42 @@
         "latitude": 25.197525,
         "longitude": 55.274288,
         "picture": "burj khalifa"
+    },
+    {
+        "id": 6,
+        "name": "Tower Eiffel",
+        "country": "france",
+        "description": "In 1889, to commemorate the 100th anniversary of the French Revolution, the Paris Universal Exposition was held, and this tower was built as a symbol of the exposition. It was constructed with a method of erecting four iron columns on a platform the size of a football field and then encasing them in concrete before adding the body of the iron tower on top. The total weight of the metal structure of the Eiffel Tower is 7,300 tons, and including non-metal materials, it amounts to approximately 10,000 tons. Recognized as a pioneering example of modern architecture utilizing iron, concrete, and glass, the exposed iron structure of the Eiffel Tower influenced the construction of subsequent structures such as railway stations and bridges. It has since become a prominent tourist attraction representing Paris.",
+        "latitude": 48.8583,
+        "longitude": 2.2944,
+        "picture": "tower eiffel"
+    },
+    {
+        "id": 7,
+        "name": "1915 Çanakkale Bridge",
+        "country": "turkiye",
+        "description": "Located in the Dardanelles strait, connecting Lapseki and Gelibolu, this is a major bridge inaugurated in March 2022 after commencement in April 2018. With a total length of 3,563 meters, a main span length of 2,023 meters, a main tower height of 334 meters, and a main cable diameter of 881 mm, it involved a workforce of 17,000 people and took 2,634,430 days to complete. It is the first suspension bridge with a main span exceeding 2,000 meters and was constructed by South Korea's DL Engineering & Construction. The project followed a Design-Build approach, where the design and construction teams collaborated concurrently. Serving as a crucial link between Europe and Asia in southern Turkey, it plays a vital role.",
+        "latitude": 40.3395,
+        "longitude": 26.6370,
+        "picture": "canakkale bridge"
+    },
+    {
+        "id": 8,
+        "name": "Tower Bridge",
+        "country": "uk",
+        "description": "The bridge, built over the River Thames in central London, combines the structure of a suspension and a bascule bridge. It has a total length of 244.1 meters, with two towers on either side of the bridge's center, each measuring 64.9 meters. Between them lies a bascule bridge with a span of 62.0 meters, allowing passage for vessels of up to 42.5 meters in height. The space between each tower and the riverbank is spanned by a 82.3-meter-long suspension bridge. Completed in 1894, it has become an iconic bridge in London.",
+        "latitude": 51.5054,
+        "longitude": -0.0753,
+        "picture": "tower bridge"
+    },
+    {
+        "id": 9,
+        "name": "Suez Canal",
+        "country": "egypt",
+        "description": "Connecting the Mediterranean and Red Seas, the canal links the North Atlantic and the Indian Ocean, bridging Europe and Asia without circumventing Africa by sea. It also serves military-strategic purposes. Ferdinand de Lesseps established the Suez Canal Company in 1858 for its construction, which took place under Ottoman Empire support from 1859 to 1869. It was officially opened on November 17, 1869. In August 2014, the Egyptian government began construction on the Suez Canal Expansion Project, extending the Ballah Bypass by 35 km to reduce transit time through the canal. The expansion aims to double the canal's capacity from 49 to 97 ships per day. The cost, totaling 59.4 billion Egyptian pounds (approximately 9 billion dollars), was funded through investment certificates issued exclusively to Egyptian corporations and individuals. The expanded New Suez Canal was opened on August 6, 2015.",
+        "latitude": 30.5895,
+        "longitude": 32.3363,
+        "picture": "suez canal"
     }
  ]
 
